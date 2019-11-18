@@ -3,3 +3,6 @@
 http://python.slides.com/colt/oop-21#/
 http://python.slides.com/colt/functions-part-1#/
 http://python.slides.com/colt/lists-13#/
+http://python.slides.com/colt/lists-22#/
+http://python.slides.com/colt/lists-23#/
+http://python.slides.com/colt/lists-16#/2
