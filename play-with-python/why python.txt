@@ -1,5 +1,7 @@
 
 
+good programming language for
+
 - Automtation 
 - data science & AI
 - websites
@@ -11,15 +13,12 @@ features
 
     ==> easy to learn
     ==> huge community support
-
     ==> best functional programming language
     
-
-
 --------------------------------------------
 
 python envi
 
-   ==> installing python interpretor
+   ==> install python interpretor
 
 ---------------------------------------------   

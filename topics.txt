@@ -1,0 +1,12 @@
+
+- variable scope
+- *args
+- **kwargs
+- ordering parameters
+- list/tuple unpacking
+- dictionary unpacking
+- Lambda
+- Closure
+
+
+
